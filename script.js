@@ -9,7 +9,7 @@
 
   /* ---------- Configuration ---------- */
   const CONFIG = {
-    whatsappNumber: "257707113706", // international format, no "+" or spaces
+    whatsappNumber: "254707113706", // international format, no "+" or spaces
     currency: "KES",
     cartStorageKey: "fo-solar-cart",
   };
